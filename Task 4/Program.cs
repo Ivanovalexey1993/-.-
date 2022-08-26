@@ -5,7 +5,6 @@
 
 
 
-
 Console.WriteLine("Введите 3 числа в столбик:");
 int num_A = Convert.ToInt32((Console.ReadLine()));
 int num_B = Convert.ToInt32((Console.ReadLine()));
